@@ -15,7 +15,57 @@ Sample Student Work
 
 These pieces are intended to demonstrate some of the range of different kinds of work done by students in this course. They also show the kinds of changes that come about through the revisions process.
 
-| High Caliber Men by Alex Sailsman | [First draft (PDF)]({{< baseurl >}}/resources/mit21w_758s13_hcm-fr_drft) (Courtesy of Alex Sailsman. Used with permission.) | [Revised (PDF)]({{< baseurl >}}/resources/mit21w_758s13_hcm-rev) (Courtesy of Alex Sailsman. Used with permission.) |
-| The Haunting of Belfer by Neal Akatsuka | [First draft (PDF)]({{< baseurl >}}/resources/mit21w_758s13_aka-fr_drft) (Courtesy of Neal Akatsuka. Used with permission.) | [Revised (PDF)]({{< baseurl >}}/resources/mit21w_758s13_aka-fn_drft) (Courtesy of Neal Akatsuka. Used with permission.) |
-| Deliberately by Irina Onoprienko | [First draft (PDF)]({{< baseurl >}}/resources/mit21w_758s13_del-fr_drft) (Courtesy of Irina Onoprienko. Used with permission.) | [Revised (PDF)]({{< baseurl >}}/resources/mit21w_758s13_del-fn_drft) (Courtesy of Irina Onoprienko. Used with permission.) |
-| How to Start a Zombie Apocalypse by an MIT Student | [First draft (PDF)]({{< baseurl >}}/resources/mit21w_758s13_htsa-fr_drft) (Courtesy of an MIT Student. Used with permission.) | [Revised (PDF)]({{< baseurl >}}/resources/mit21w_758s13_htsza-rev) (Courtesy of an MIT Student. Used with permission.)
+{{< tableopen >}}
+{{< theadopen >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+High Caliber Men by Alex Sailsman
+{{< tdclose >}}
+{{< tdopen >}}
+[First draft (PDF)]({{< baseurl >}}/resources/mit21w_758s13_hcm-fr_drft) (Courtesy of Alex Sailsman. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+[Revised (PDF)]({{< baseurl >}}/resources/mit21w_758s13_hcm-rev) (Courtesy of Alex Sailsman. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Haunting of Belfer by Neal Akatsuka
+{{< tdclose >}}
+{{< tdopen >}}
+[First draft (PDF)]({{< baseurl >}}/resources/mit21w_758s13_aka-fr_drft) (Courtesy of Neal Akatsuka. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+[Revised (PDF)]({{< baseurl >}}/resources/mit21w_758s13_aka-fn_drft) (Courtesy of Neal Akatsuka. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Deliberately by Irina Onoprienko
+{{< tdclose >}}
+{{< tdopen >}}
+[First draft (PDF)]({{< baseurl >}}/resources/mit21w_758s13_del-fr_drft) (Courtesy of Irina Onoprienko. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+[Revised (PDF)]({{< baseurl >}}/resources/mit21w_758s13_del-fn_drft) (Courtesy of Irina Onoprienko. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+How to Start a Zombie Apocalypse by an MIT Student
+{{< tdclose >}}
+{{< tdopen >}}
+[First draft (PDF)]({{< baseurl >}}/resources/mit21w_758s13_htsa-fr_drft) (Courtesy of an MIT Student. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+[Revised (PDF)]({{< baseurl >}}/resources/mit21w_758s13_htsza-rev) (Courtesy of an MIT Student. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
